@@ -5,6 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: "SF Pro Display", sans-serif;
+  font-family: 'SF Pro Display', sans-serif;
+  font-family: 'SF Pro Display', sans-serif !important;
+}
+* {
+  font-family: SF Pro Display !important;
+  font-family: "SF Pro Display", sans-serif;
+  letter-spacing: -0.5px;
+
 }
 
 code {
